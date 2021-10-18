@@ -1,0 +1,106 @@
+Position,Class,CarID,Car,Raw Time,Driver
+1,SMF,141SMF,1990 Honda Civic DX,25.344,Driver 1
+2,STU,43STU,2018 Honda Civic Type-R,25.784,Driver 2
+3,SMF,41SMF,1990 Honda Civic Si,26.023,Driver 3
+4,SSM,22SSM,1999 Mazda Miata,26.232,Driver 4
+5,XS-A,22XS-A,2018 Subaru STI,26.291,Driver 5
+6,AS,198AS,2008 Chevrolet Corvette Z06,26.359,Driver 6
+7,EV,6EV,2019 Tesla Model 3 Performance,26.437,Driver 7
+8,FSP,8FSP,2008 Honda Civic Si,26.454,Driver 8
+9,EV,66EV,2019 Tesla Model 3 Performance,26.461,Driver 9
+10,DSP,9SSR,2004 Porsche GT3,26.698,Driver 10
+11,STH,11SSC,2013 Scion FR-S,26.736,Driver 11
+12,SS,183SS,2019 Porsche GT3,26.755,Driver 12
+13,FSP,5FSP,2008 Civic Si,26.787,Driver 13
+14,BS,68BS,2018 BMW M2,26.792,Driver 14
+15,STS,77STS,1989 Honda Civic,26.815,Driver 15
+16,SS,11SS,2019 Porsche Cayman S,26.819,Driver 16
+17,BS,72BS,2019 Ford GT350,26.824,Driver 17
+18,CAM-T,9CAM-T,2003 Ford Mustang,26.867,Driver 18
+19,GS,49GS,2017 Honda Civic Si,26.932,Driver 19
+20,GS,59GS,2019 Honda Civic Si,26.994,Driver 20
+21,HS,21HS,2017 Ford Fiesta ST,27.007,Driver 21
+22,DS,71DS,2021 Honda Civic Type R,27.045,Driver 22
+23,FSP,62FSP,2004 Ford Focus ZX3,27.109,Driver 23
+24,SS,111SS,2019 Porsche Cayman S,27.135,Driver 24
+25,STH,77STH,2014 Ford Fiesta ST,27.144,Driver 25
+26,CAM-C,18CAM-S,2001 Chevrolet Corvette,27.219,Driver 26
+27,CAM-C,46CAM-C,2019 Chevrolet Camaro SS,27.312,Driver 27
+28,EV,101EV,2019 Tesla Model 3,27.348,Driver 28
+29,STS,66STS,1989 Honda CRX Si,27.359,Driver 29
+30,DM,156EP,1992 Honda Civic,27.373,Driver 30
+31,GS,19GS,2019 Civic Si,27.379,Driver 31
+32,FSP,26FSP,2004 Ford Focus,27.449,Driver 32
+33,SSM,7SSM,1999 Chevrolet corvette,27.458,Driver 33
+34,STR,83STR,2001 Honda S2000,27.642,Driver 34
+35,DM,29DM,2017 Exomotive Exocet,27.778,Driver 35
+36,SS,187SS,2021 Porsche GT4,27.798,Driver 36
+37,ES,1ES,2000 Mazda Miata,27.873,Driver 37
+38,GS,159GS,2019 Civic Si,27.918,Driver 38
+39,AS,24AS,2002 Chevrolet Corvette Z06,28.027,Driver 39
+40,GS,65GS,2016 Volkswagen GTI,28.128,Driver 40
+41,STH,727STH,2016 Volkswagen GTI,28.137,Driver 41
+42,HS,12HS,2007 Honda Civic Si,28.22,Driver 42
+43,GS,9GS,2019 Honda Civic Si,28.316,Driver 43
+44,STS,164STS,2000 Honda Civic Si,28.346,Driver 44
+45,DS,35DS,2017 Subaru BRZ,28.354,Driver 45
+46,SSM,13SSM,2004 Mazda Miata,28.437,Driver 46
+47,CAM-C,20CAM-C,2005 Ford Mustang GT,28.519,Driver 47
+48,CAM-T,71CAM-T,1971 Chevrolet Camaro,28.639,Driver 48
+49,CAM-C,87CAM-C,2001 Chevrolet CAMARO SS,28.652,Driver 49
+50,STH,5STH,2011 Subaru Impreza WRX,28.687,Driver 50
+51,CS,72CS,2002 Honda S2000,28.706,Driver 51
+52,BS,6BS,2019 BMW Z4,28.747,Driver 52
+53,DS,26DS,2016 Subaru WRX STI,28.761,Driver 53
+54,GS,61GS,2019 Volkswagen GTI,28.765,Driver 54
+55,CAM-C,36CAM-C,2014 Ford Mustang,28.787,Driver 55
+56,ES,40ES,2001 Toyota MR2,28.841,Driver 56
+57,FS,92FS,2014 BMW M235i,28.877,Driver 57
+58,STX,511STX,2014 Scion FR-S,28.898,Driver 58
+59,DSP,21DSP,2011 Volkswagen GTI,28.915,Driver 59
+60,SM,91SM,1992 Toyota Supra,29,Driver 60
+61,STU,178STU,2007 Subaru STI,29.046,Driver 61
+62,STX,32STX,2013 Subaru BRZ,29.194,Driver 62
+63,EV,12EV,2020 Tesla Model 3,29.223,Driver 63
+64,FSP,17FSP,2010 Volkswagen TDi Cup,29.234,Driver 64
+65,ES,140ES,2001 Toyota MR2,29.342,Driver 65
+66,BS,16BS,2020 Subaru WRX STI,29.353,Driver 66
+67,CS,8CS,2006 Honda S2000,29.484,Driver 67
+68,STR,66STR,2019 Mazda Miata RF,29.503,Driver 68
+69,STU,77STU,2012 Ford Taurus SHO,29.585,Driver 69
+70,SMF,66SMF,2005 Scion tC,29.647,Driver 70
+71,STH,8STH,2013 Subaru WRX,29.661,Driver 71
+72,VIN,409STR,1977 Datsun 280 z,29.743,Driver 72
+73,STU,12STU,2020 Hyundai Veloster N,29.778,Driver 73
+74,SSM,129SSM,2001 Mazda Miata,29.834,Driver 74
+75,STR,97STR,2006 Honda S-2000,29.976,Driver 75
+76,CS,66CS,2016 Mazda MX-5,30.026,Driver 76
+77,VIN,3BS,1992 Chevrolet Corvette,30.046,Driver 77
+78,HS,54HS,2008 Honda Civic SI,30.073,Driver 78
+79,ES,96ES,1996 Mazda Miata,30.077,Driver 79
+80,DS,1DS,2015 Subaru BRZ,30.089,Driver 80
+81,CS,69CS,2008 Honda S2000,30.273,Driver 81
+82,AS,70AS,2005 Chevrolet Corvette,30.28,Driver 82
+83,VIN,88ES,1988 Pontiac Fiero GT,30.297,Driver 83
+84,XS-A,53XS-A,2005 Mini Cooper S,30.389,Driver 84
+85,STS,113STS,1990 Honda Civic dx,30.395,Driver 85
+86,SM,14SM,1994 Lexus SC600,30.446,Driver 86
+87,FS,69FS,2020 Kia Stinger GT,30.496,Driver 87
+88,VIN,19ES,1994 Mazda Miata,30.555,Driver 88
+89,CAM-C,10CAM-C,2017 Ford Mustang GT,30.635,Driver 89
+90,GS,111GS,2018 Ford Focus,30.646,Driver 90
+91,FSP,9FSP,2013 Chevrolet Sonic LTZ 1.4 Turbo,30.762,Driver 91
+92,CAM-T,92CAM-T,1987 Buick Grand National,30.784,Driver 92
+93,DSP,93DSP,2008 Chevrolet Cobalt SS,30.868,Driver 93
+94,SM,779SM,1996 Nissan 240sx,30.908,Driver 94
+95,STX,40STX,2008 Honda Civic si,31.264,Driver 95
+96,STS,99STS,1998 Saturn Sw2,31.443,Driver 96
+97,CAM-T,33CAM-T,1991 Chevrolet Camaro,31.522,Driver 97
+98,FS,99FS,2019 Ford Mustang,31.785,Driver 98
+99,STX,140STX,2008 Honda Civic Si,31.802,Driver 99
+100,DS,55DS,2018 Subaru Wrx,32.193,Driver 100
+101,SMF,69SMF,2016 Volkswagen GTI,32.549,Driver 101
+102,HS,43HS,2001 Volkswagen GTI,33.204,Driver 102
+103,SSM,56SSM,1984 Pontiac Fiero,34.362,Driver 103
+104,DS,11DS,2015 Subaru BRZ,35.299,Driver 104
+105,FS,29FS,2011 Chevrolet Camaro,37.439,Driver 105
